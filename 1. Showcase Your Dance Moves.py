@@ -12,7 +12,7 @@ input("How are you today?")
 
 mood = "happy"
 
-if mood == "happy":
+if mood == "happy" :
     print("That's great to hear!")
-else:
-    print("I hope your day gets better!")
+else :
+   print("I hope your day gets better!")
